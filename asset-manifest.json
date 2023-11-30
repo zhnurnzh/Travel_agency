@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travel_agency/static/css/main.d28e2d18.css",
+    "main.js": "/Travel_agency/static/js/main.75177499.js",
+    "static/media/station.png": "/Travel_agency/static/media/station.22769503389530ed6818.png",
+    "static/media/landing-image.png": "/Travel_agency/static/media/landing-image.604e1288b0b7acc05d67.png",
+    "static/media/Turkmenistan.png": "/Travel_agency/static/media/Turkmenistan.2c61a2abd0a6f1cfe1b6.png",
+    "static/media/world.png": "/Travel_agency/static/media/world.822abb01a5ee93962200.png",
+    "static/media/ticket.png": "/Travel_agency/static/media/ticket.f61530146494e7b7792d.png",
+    "static/media/Visa.png": "/Travel_agency/static/media/Visa.b8d775706503b84501f4.png",
+    "static/media/hotel.png": "/Travel_agency/static/media/hotel.e45c3efeb7573c095071.png",
+    "static/media/vienna.png": "/Travel_agency/static/media/vienna.467106ae9209362ca1a2.png",
+    "static/media/transportation.png": "/Travel_agency/static/media/transportation.8dd352e2eac39a97b5bb.png",
+    "static/media/logo_small.png": "/Travel_agency/static/media/logo_small.21d43e81d28e95932128.png",
+    "static/media/company-logo.png": "/Travel_agency/static/media/company-logo.eac7b9d4c3dd92cff8ef.png",
+    "index.html": "/Travel_agency/index.html",
+    "main.d28e2d18.css.map": "/Travel_agency/static/css/main.d28e2d18.css.map",
+    "main.75177499.js.map": "/Travel_agency/static/js/main.75177499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28e2d18.css",
+    "static/js/main.75177499.js"
+  ]
+}
